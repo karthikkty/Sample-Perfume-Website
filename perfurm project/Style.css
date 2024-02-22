@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+    background-image: url(perfume-3635207_1280.jpg);
+}
+nav{
+    background-color: rgb(17, 12, 12);
+    color: white;
+    padding: 20px;
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+li{
+    color: grey;
+    cursor: pointer;
+}
+li:hover{
+    color: bisque;
+}
+input{
+    width: 60%;
+    padding: 15px;
+    border-radius: 5px;
+    border: 2px solid rgb(82, 65, 65);
+}
+.searchbar{
+    padding: 30px;
+    text-align: center;
+}
+.box{
+    border: 2px solid black;
+    width: 220px;
+    display: inline-block;
+    background-color: aliceblue;
+}
+.box:hover{
+    background-color: rgb(94, 163, 224);
+    color: wheat;
+}
+.product{
+    text-align: center;
+}
+.about{
+    text-align: center;
+    margin-top: 30px;
+}
+.contact{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    background-color:black;
+    padding: 5px;
+}
+p{
+    padding: 10px;
+}
+
+
+
